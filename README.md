@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Alia Marliana
 
 ## 🚀 About Me
-I'm a Master of Data Science student at Universiti Sains Malaysia (USM), passionate about leveraging data-driven insights to solve real-world challenges. I have a strong foundation in software engineering with a Bachelor’s degree from Universiti Tenaga Nasional (UNITEN), where I graduated with a CGPA of 3.98/4.00. My expertise lies in data analysis, predictive modeling, and data visualization, using tools like Python, R, SQL, Power BI, and Tableau.
+I'm a Master of Data Science student at Universiti Sains Malaysia (USM), passionate about leveraging data-driven insights to solve real-world challenges. I have a strong foundation in software engineering with a Bachelor of Computer Science (Software Engineering) (Hons.) from Universiti Tenaga Nasional (UNITEN), where I graduated with a CGPA of 3.98/4.00. My expertise lies in data analysis, predictive modeling, and data visualization, using tools like Python, R, SQL, Power BI, and Tableau.
 
 ---
 
