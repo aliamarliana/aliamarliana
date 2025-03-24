@@ -28,7 +28,7 @@ I'm a Master of Data Science student at Universiti Sains Malaysia (USM), passion
 Contributed to:
 1. **[Term Deposit Subscription Classification](https://github.com/j9988/Term-Deposit-Subscription-Classification)** (Machine Learning, Python) - Data preprocessing and Experiment 1
 2. **[Health Disease Prediction](https://github.com/j9988/Health_Disease_Prediction)** (R) - Data preparation and Logistic Regression
-3. **[Redesigning UNITEN Info System using Mobile Interface](https://www.figma.com/proto/ah6MeSWSfxYI6rYGk45HeE/UNITEN-INFO?node-id=30-2989&starting-point-node-id=71%3A332&t=CP793TFENRa0748a-1)** (Figma) - Mobile interface redesign
+3. **[Redesigning UNITEN Info System for Mobile Interface](https://www.figma.com/proto/ah6MeSWSfxYI6rYGk45HeE/UNITEN-INFO?node-id=30-2989&starting-point-node-id=71%3A332&t=CP793TFENRa0748a-1)** (Figma) - Mobile interface redesign
 4. **[ZUS App Capybara Marketing Limited Edition](https://www.figma.com/proto/4pwzbWguHpAwKEzVPxjtdm/Group-Project?node-id=5-3&t=fx2IIy6IQ9bJWtKi-1)** (Figma) - Marketing interface design
 5. **[ZUS App Discount Promo](https://www.figma.com/proto/4pwzbWguHpAwKEzVPxjtdm/Group-Project?node-id=135-1059&starting-point-node-id=135%3A1059&t=Aezrb1RGj2xik8Ie-1)** (Figma) - Promotional interface design
 ---
