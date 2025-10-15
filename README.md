@@ -10,7 +10,7 @@ My work bridges data science and full-stack development to build impactful, data
 
 ## 🧠 **Technical Skills**
 - **Languages:** Python · R · SQL · Java · PHP  
-- **Data Science:** Pandas · NumPy · scikit-learn · TensorFlow · PyTorch  
+- **Data Science:** Pandas · NumPy · scikit-learn · TensorFlow · PyTorch · spaCy(NLP) · Time Series Analysis · Statistical Data Analysis
 - **Visualization:** Power BI · Tableau · Matplotlib · Seaborn  
 - **Databases:** MySQL · MongoDB · Cassandra  
 - **Web Development:** HTML · CSS · JavaScript · Laravel  
