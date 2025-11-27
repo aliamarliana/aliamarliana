@@ -10,7 +10,7 @@
 - **Programming:** Python · R · SQL · Java  
 - **ML/AI:** scikit-learn · TensorFlow · XGBoost · CatBoost · NLP (spaCy) · LLMs & Generative AI · RAG Pipelines · Model Evaluation & Hyperparameter Tuning · Computer Vision
 - **Data & Visualization:** Pandas · NumPy · Matplotlib · Seaborn · Power BI · Tableau · Streamlit  
-- **Databases & Tools:** MySQL · MongoDB · ChromaDB · Git · Jupyter Notebook · Google Colab · FastAPI · LangChain · HuggingFace  
+- **Databases & Tools:** MySQL · MongoDB ·Cassandra · ChromaDB · Git · Jupyter Notebook · Google Colab · FastAPI · LangChain · HuggingFace  
 
 ---
 
