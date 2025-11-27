@@ -1,27 +1,28 @@
 # 👋 Hi there! I'm **Alia Marliana**
 
-🎓 **Master of Data Science** graduate from *Universiti Sains Malaysia (USM)* (CGPA 3.88/4.00),  
-with a **Bachelor of Computer Science (Software Engineering)** from *Universiti Tenaga Nasional (UNITEN)* (CGPA 3.98/4.00).  
+🎓 **Master of Data Science** (USM, CGPA 3.88) | **BSc Software Engineering** (UNITEN, CGPA 3.98)  
 
-💡 I’m passionate about **transforming data into meaningful insights** through analytics, machine learning, and visualization.  
-My work bridges data science and full-stack development to build impactful, data-driven solutions.
+💡 I build **AI and ML systems that transform data into actionable insights**. My expertise spans **predictive modeling, NLP, RAG pipelines, time series forecasting, and deployment of intelligent applications**. I combine strong machine learning skills with hands-on software engineering experience to deliver **production-ready, data-driven solutions**.
 
 ---
 
-## 🧠 **Technical Skills**
-- **Languages:** Python · R · SQL · Java · PHP  
-- **Data Science:** Pandas · NumPy · scikit-learn · TensorFlow · PyTorch · spaCy(NLP) · Time Series Analysis · Statistical Data Analysis
-- **Visualization:** Power BI · Tableau · Matplotlib · Seaborn  
-- **Databases:** MySQL · MongoDB · Cassandra  
-- **Web Development:** HTML · CSS · JavaScript · Laravel  
-- **Tools:** Git · Jupyter Notebook · Google Colab · Figma  
+## 🧠 **Core Skills**
+- **Programming:** Python · R · SQL · Java  
+- **ML/AI:** scikit-learn · TensorFlow · XGBoost · CatBoost · NLP (spaCy) · LLMs & Generative AI · RAG Pipelines · Model Evaluation & Hyperparameter Tuning · Computer Vision
+- **Data & Visualization:** Pandas · NumPy · Matplotlib · Seaborn · Power BI · Tableau · Streamlit  
+- **Databases & Tools:** MySQL · MongoDB · ChromaDB · Git · Jupyter Notebook · Google Colab · FastAPI · LangChain · HuggingFace  
+
 ---
 
-## 📝 Projects
-- **Predictive Analytics Models**: Implemented decision trees, XGBoost, and SVM for predictive modeling using Python. Applied hyperparameter tuning to optimize model performance.
-- **Data Visualization Dashboards**: Created insightful dashboards using Power BI and Tableau to support data-driven decision-making.
+## 📝 Selected Projects
+1. **[Role-Based RAG Chatbot for FinTech](https://github.com/aliamarliana/finbot-rbac)** – Production-ready chatbot with **FastAPI + Streamlit**, HuggingFace LLM, and ChromaDB for secure, role-based document retrieval.  
+2. **[Rossmann Sales Forecasting](https://github.com/aliamarliana/Rossmann-Sales-Forecasting)** – Time series and ML models for micro/macro sales forecasting (SARIMA, XGBoost, CatBoost).  
+3. **[Term Deposit Subscription Classification](https://github.com/j9988/Term-Deposit-Subscription-Classification)** – Binary classification models with feature selection and hyperparameter tuning.  
+4. **[Health Disease Prediction](https://github.com/j9988/Health_Disease_Prediction)** – Predictive modeling for heart disease using classification algorithms, with robust feature selection and class imbalance handling.  
 
-### 💪 My Contributions
+---
+
+## 💪 My Contributions
 Here are some selected contributions I’ve made to group projects and collaborations.  
 *(Note: some projects are not in my personal repository, so I’ve linked directly to the original team repos or design files.)*
 
@@ -29,17 +30,16 @@ Here are some selected contributions I’ve made to group projects and collabora
 2. **[Health Disease Prediction](https://github.com/j9988/Health_Disease_Prediction)** (R) – Data preparation and Logistic Regression  
 3. **[Redesigning UNITEN Info System for Mobile Interface](https://www.figma.com/proto/ah6MeSWSfxYI6rYGk45HeE/UNITEN-INFO?node-id=30-2989&starting-point-node-id=71%3A332&t=CP793TFENRa0748a-1)** (Figma) – Mobile interface redesign  
 4. **[ZUS App Capybara Marketing Limited Edition](https://www.figma.com/proto/4pwzbWguHpAwKEzVPxjtdm/Group-Project?node-id=5-3&t=fx2IIy6IQ9bJWtKi-1)** (Figma) – Marketing interface design  
-5. **[ZUS App Discount Promo](https://www.figma.com/proto/4pwzbWguHpAwKEzVPxjtdm/Group-Project?node-id=135-1059&starting-point-node-id=135%3A1059&t=Aezrb1RGj2xik8Ie-1)** (Figma) – Promotional interface design  
+5. **[ZUS App Discount Promo](https://www.figma.com/proto/4pwzbWguHpAwKEzVPxjtdm/Group-Project?node-id=135-1059&starting-point-node-id=135%3A1059&t=Aezrb1RGj2xik8Ie-1)** (Figma) – Promotional interface design
 
 ---
 
-## 🌱 **Currently Exploring**
-🔹 NLP & LLMs (LangChain · Hugging Face · RAG)  
-🔹 Generative AI for intelligent applications  
-🔹 Data Engineering & MLOps 
+## 🚀 **Highlights**
+- Experienced in **RAG, LLMs, NLP, and Generative AI**  
+- Developed **production-ready AI applications** with Python, FastAPI, and Streamlit  
+- Strong foundation in **data preprocessing, feature engineering, model tuning, and deployment**  
 
 ---
 
-## 📫 Let's Connect!
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/alia-marliana-shaiful-bahari/) or explore my projects here on GitHub!
-
+## 📫 **Connect**
+[LinkedIn](https://www.linkedin.com/in/alia-marliana-shaiful-bahari/) | Explore my **AI/ML projects on GitHub**
