@@ -24,10 +24,11 @@
 
 ---
 
-## 🚀 **Highlights**
-- Experienced in **RAG, LLMs, NLP, and Generative AI**  
-- Developed **production-ready AI applications** with Python, FastAPI, and Streamlit  
-- Strong foundation in **data preprocessing, feature engineering, model tuning, and deployment**  
+## 🚀 What I Do Best
+- Build **end-to-end machine learning solutions** from data ingestion to deployment-ready workflows
+- Translate analytical results into **clear insights and dashboards** for decision-making
+- Develop production-ready **ML applications** using Python, APIs and lightweight interfaces
+- Work comfortably across modeling, data analysis and system integration  
 
 ---
 
