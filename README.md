@@ -20,7 +20,8 @@
 1. **[Role-Based RAG Chatbot for FinTech](https://github.com/aliamarliana/finbot-rbac)** – Production-ready chatbot with **FastAPI + Streamlit**, HuggingFace LLM, and ChromaDB for secure, role-based document retrieval.  
 2. **[Rossmann Sales Forecasting](https://github.com/aliamarliana/Rossmann-Sales-Forecasting)** – Time series and ML models for micro/macro sales forecasting (SARIMA, XGBoost, CatBoost).  
 3. **[Term Deposit Subscription Classification](https://github.com/j9988/Term-Deposit-Subscription-Classification)** – Binary classification models with feature selection and hyperparameter tuning.  
-4. **[Health Disease Prediction](https://github.com/j9988/Health_Disease_Prediction)** – Predictive modeling for heart disease using classification algorithms, with robust feature selection and class imbalance handling.  
+4. **[Health Disease Prediction](https://github.com/j9988/Health_Disease_Prediction)** – Predictive modeling for heart disease using classification algorithms, with robust feature selection and class imbalance handling.
+5. **[R Coffee Co. Dashboard](https://github.com/aliamarliana/cafe-sales-powerbi-dashboard)** – Power BI dashboard built on POS-style sales data to analyze menu performance, peak demand periods and customer spending patterns, supporting data-driven decisions on staffing and promotions. 
 
 ---
 
