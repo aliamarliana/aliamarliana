@@ -2,7 +2,7 @@
 
 🎓 **Master of Data Science** (USM, CGPA 3.88) | **BSc Software Engineering** (UNITEN, CGPA 3.98)  
 
-💡 I build **AI and ML systems that transform data into actionable insights**. My expertise spans **predictive modeling, NLP, RAG pipelines, time series forecasting, and deployment of intelligent applications**. I combine strong machine learning skills with hands-on software engineering experience to deliver **production-ready, data-driven solutions**.
+💡 I specialize in turning raw data into actionable ML systems. I’m a big believer in **rigorous data preparation** and genuinely enjoy the challenge of **cleaning complex datasets** to build better predictive models, NLP tools, and RAG pipelines. I bridge the gap between messy data and production-ready code to deliver insights that stick."
 
 ---
 
