@@ -1,16 +1,16 @@
 # 👋 Hi there! I'm **Alia Marliana**
 
-🎓 **Master of Data Science** (USM, CGPA 3.88) | **BSc Software Engineering** (UNITEN, CGPA 3.98)  
+Data Scientist / AI Engineer | Master of Data Science (USM) | BSc Software Engineering (UNITEN)
 
-💡 I specialize in turning raw data into actionable ML systems. I’m a big believer in **rigorous data preparation** and genuinely enjoy the challenge of **cleaning complex datasets** to build better predictive models, NLP tools, and RAG pipelines. I bridge the gap between messy data and production-ready code to deliver results that drive real business value.
+💡 I build end-to-end machine learning and AI solutions that turn raw data into actionable insights and production-ready systems. I work across Python, R, SQL and modern ML/AI tools including LLMs, computer vision and RAG pipelines.
 
 ---
 
 ## 🧠 **Core Skills**
-- **Programming:** Python · R · SQL · Java  
-- **ML/AI:** scikit-learn · TensorFlow · XGBoost · CatBoost · NLP (spaCy) · LLMs & Generative AI · RAG Pipelines · Model Evaluation & Hyperparameter Tuning · Computer Vision
-- **Data & Visualization:** Pandas · NumPy · Matplotlib · Seaborn · Power BI · Tableau · Streamlit · Figma  
-- **Databases & Tools:** MySQL · MongoDB · Cassandra · ChromaDB · Git · Jupyter Notebook · Google Colab · FastAPI · LangChain · HuggingFace  
+- **Programming:** Python · R · SQL · Java
+- **Machine Learning & AI:** scikit-learn · TensorFlow · XGBoost · CatBoost · NLP (spaCy) · LLMs & Generative AI · RAG Pipelines · Hyperparameter Tuning · Computer Vision
+- **Data & Visualization:** Pandas · NumPy · Matplotlib · Seaborn · Power BI · Tableau · Streamlit · Figma
+- **Databases & Tools:** MySQL · MongoDB · Cassandra · ChromaDB · Git · Jupyter Notebook · Google Colab · FastAPI · LangChain · HuggingFace 
 
 ---
 
